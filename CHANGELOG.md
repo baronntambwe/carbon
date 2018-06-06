@@ -1,3 +1,9 @@
+# 4.1.1
+
+# Bug Fixes
+
+* Allows Confirm button text to take an object rather than just a string
+
 # 4.1.0
 
 ## npm audit
